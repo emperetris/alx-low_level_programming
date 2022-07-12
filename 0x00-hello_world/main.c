@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    	printf("export CFILE=0-main.c\n");
+    	printf("export CFILE=main.c\n");
 	return (0);
 }
